@@ -33,10 +33,3 @@ just the `tox` command.
 ## Change Log
 
 [Changelog on Read The Docs](https://django-mixin.readthedocs.io/en/latest/changelog.html)
-
-## Supported Django Versions
-
-Our policy is that `django-braces` officially supports, and is tested on, all versions
-that Django [officially supports](https://www.djangoproject.com/download/#supported-versions).
-You are free to use `django-braces` with any version of Django you wish (so long as it has
-class-based views) but no support will be promised.
